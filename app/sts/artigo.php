@@ -1,3 +1,8 @@
+<?php
+if(!isset($seguranca)){
+    exit;
+}
+?>
 <head>
     <meta charset="UTF-8">
     <title></title>
